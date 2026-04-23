@@ -102,7 +102,7 @@ based on total sales?
 ---
 
 
-#Tools & Techniques
+##Tools & Techniques
 - SQL joins and aggregations
 - Common Table Expressions (CTEs)
 - Window functions (LAG, ROW_NUMBER, OVER)
@@ -112,6 +112,6 @@ based on total sales?
 
 
 
-#Author
+##Author
 Malak Wessam 
 Data Analytics Student | SQL
